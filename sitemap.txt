@@ -1,0 +1,32 @@
+
+-> Home
+
+-> signup
+
+  -> sign up as vendor
+  -> sign up as affiliate
+  -> sign up as client
+
+-> signin  
+  
+  -> sign in as vendor
+  -> sign in as affiliate
+  -> sign in as client
+  
+->  cart
+  -> checkout
+    --> payment processor --> usdt/ tron
+        --> download product
+        
+        
+-->Admin 
+  
+  --> add categories
+  
+  
+-> General  
+--> to$[str]
+---->m-rt
+------> flag -prod
+--------> env stp
+---------->zyk 
